@@ -1,4 +1,4 @@
-# bigchaindb-kor
+# README\_kor
 
 ## BigchainDB 서버
 
