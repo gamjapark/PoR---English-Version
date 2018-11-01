@@ -6,7 +6,8 @@ Block Chain과 관련된 다양한 오픈소스 프로젝트를 한국어로 번
 
 ## 목차
 
-* [blockchain\_go-ko](https://know-blockchain-from-opensource.gitbook.io/know-blockchain/blockchain_go-kor)
+* [blockchain\_go-kor](https://know-blockchain-from-opensource.gitbook.io/know-blockchain/blockchain_go-kor)
+* [bigchaindb-kor](https://know-blockchain-from-opensource.gitbook.io/know-blockchain/bigchaindb-kor)
 
 
 
